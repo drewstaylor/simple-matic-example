@@ -1,0 +1,44 @@
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'matic'
+> Network id:      80001
+> Block gas limit: 20000000 (0x1312d00)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xd40fdb92a82b27cad1e3351a30cc1c405311acc7bad3ce7c5459fe1cef041169
+   > Blocks: 1            Seconds: 4
+   > contract address:    0x2efD2358D61A8D996B5FF27Ac362bAE5EEd5661a
+   > block number:        3216641
+   > block timestamp:     1597955199
+   > account:             0x1112BC30D4582816aba1Df15277aC80bc2A16336
+   > balance:             0.99586798
+   > gas used:            206601 (0x32709)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00413202 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 3216643)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00413202 ETH
+
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.00413202 ETH

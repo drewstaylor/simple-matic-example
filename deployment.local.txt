@@ -1,0 +1,28 @@
+nitial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x900b8ac40f0c3c4df053712e0c5935ba99c7dbe647da7aaf9c3ece95c51af907
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x95E08273862bb289E0d6a05C861dEf16D39A7d09
+   > block number:        1
+   > block timestamp:     1597954199
+   > account:             0x2c35C2BCd4c1D8dDD89114d34923d8413c9A9374
+   > balance:             99.99586798
+   > gas used:            206601 (0x32709)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00413202 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00413202 ETH
+
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.00413202 ETH

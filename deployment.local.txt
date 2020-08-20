@@ -1,4 +1,4 @@
-nitial_migration.js
+initial_migration.js
 ======================
 
    Deploying 'Migrations'

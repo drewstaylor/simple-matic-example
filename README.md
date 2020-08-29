@@ -1,10 +1,10 @@
-# Install dependencies
+## Install dependencies
 ```
 $ npm install -g truffle
 $ npm install
 ```
 
-# Deploy
+## Deploy
 ```
 # Note: ganache-cli@latest doesn't work on node 14.x 
 $ nvm use lts/dubnium 
@@ -17,7 +17,7 @@ $ ganache-cli
 $ truffle migrate
 ```
 
-# Deploy to Matic (testnet)
+## Deploy to Matic (testnet)
 ```
 # @truffle does work on node 14.x
 $ nvm use stable

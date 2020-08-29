@@ -2,6 +2,8 @@
 ```
 $ npm install -g truffle
 $ npm install
+$ cp .env.example .env
+# Now edit .env with the required settings...
 ```
 
 ## Deploy
